@@ -1,3 +1,7 @@
-##List of Armenian github users
+## List of Armenian github users
 
-<h1><a href="https://github.com/Sevada797">Sevada797</a></h1>
+<ol>
+<li>
+<h3><a href="https://github.com/Sevada797">Sevada797</a></h3>
+</li>
+</ol>
